@@ -86,6 +86,21 @@ Create supporting materials:
 
 **Outputs:** `[topic]-teaser.md`, `[topic]-visual-interest.md`, `[topic]-followup-articles.md` or `[topic]-parking-lot.md`
 
+## Folder Organization
+
+Create a dedicated folder for each article draft:
+
+```
+drafts/
+  [topic]/
+    [topic]-questionnaire-01.md
+    [topic]-critique.md
+    [topic]-understanding.md
+    ...
+```
+
+This keeps all working files for an article together and makes it easy to manage multiple drafts in progress.
+
 ## Key Principles
 
 1. **Use files, not chat** - Create markdown files for annotation rather than conversational Q&A
