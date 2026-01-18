@@ -1,3 +1,8 @@
+---
+name: article-drafting
+description: Draft articles collaboratively using markdown files for iterative annotation. Supports writing opinion pieces and how-to articles with type-specific templates and a structured discovery-to-draft workflow.
+---
+
 # Skill: Article Drafting
 
 A collaborative process for developing articles using markdown files for iterative annotation. Supports multiple article types with type-specific templates.
